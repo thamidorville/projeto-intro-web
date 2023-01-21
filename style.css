@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+background-color: black;
+font-family: fantasy;
+color: cadetblue rgb(171, 212, 109);
+padding: 20px;
+color: rgb(165, 226, 43); 
+background: rgb(12, 10, 19); 
+box-shadow: 0 0 100px cadetblue (19, 90, 157); 
+
+}
+
+section {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    background: black;
+    color: white;
+    width: 380px;
+    height: 50;
+    top: -502px;
+    left: -694px;
+    font-family: 'Inter', 'Sans-serif';
+    font-style: normal;
+   
+}
+input {
+margin: 10px;;
+width: 338px;
+height: 37px;
+background: white;
+top: -367px;
+left: -248px;
+padding: 2px;
+
+}
+
+button{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 22px;
+    padding: 10px;
+    line-height: 27px;
+    margin-left: 8px;
+    color: purple;
+    background-color: rgb(59, 183, 208);
+    border-radius: 6px;
+
+}
+
+.mil-oitocentos {
+border: 1px solid black;
+width: 440px;
+height: 230px;
+background: black;
+border-radius: 10px;
+
+}
+.capa-1899{
+    width: 180px;
+    height: 180px;
+    border-radius: 4rem;
+}
+
+#texto-1899 {
+    display: grid;
+    width: 50%;
+    height: 50%;
+    margin: 2rem;
+    list-style: none;
+}
+
+
+.Mr-robot {
+    border: 1px solid black;
+    width: 440px;
+    height: 230px;
+    background:black;
+    border-radius: 10px;
+}
+
+#texto-mr-robot {
+  
+    display: grid;
+    width: 50%;
+    height: 50%;
+    margin: 2rem;
+    list-style: none;
+    
+}
+
+.capa-mr-robot {
+
+    width: 180px;
+    height: 180px;
+    border-radius: 4rem;
+    
+}
+.little-fires{
+    border: 1px solid black;
+    width: 440px;
+    height: 230px;
+    background: black;
+    border-radius: 10px;
+}
+.logo-little {
+    
+    align-items: center;
+    justify-items: center;
+    width: 50%;
+    height: 80%;
+    border-radius: 4rem;
+}
+
+#texto-little{
+    display: grid;
+    width: 50%;
+    height: 50%;
+    margin: 2rem;
+    list-style: none;
+
+}
+
+footer {
+    background-color: black;
+    color:aliceblue;
+    font-family: Inter;
+    padding: 20px; 
+}
+
+main {
+    background-color:cadetblue;
+}
